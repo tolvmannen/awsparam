@@ -1,2 +1,1 @@
-# awsparam
-AWS Parameter Store test
+Sample code for AWS Parameter Store
